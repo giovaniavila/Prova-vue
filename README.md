@@ -1,7 +1,6 @@
 # Prova-vue
 
-
-
+```
 ## Logging
 # Show sql statement
 logging.level.org.hibernate.SQL = debug
@@ -13,3 +12,4 @@ spring.datasource.password = 180857
 
 # Hibernate ddl auto (create, create-drop, validate, update)
 spring.jpa.hibernate.ddl-auto = validate
+```
